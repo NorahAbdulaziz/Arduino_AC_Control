@@ -5,9 +5,7 @@ An Arduino-based system that Controls the Room AC (On/OFF) based on Human Detect
 
 Original Sources: (Note: Our codes contain some changes based on our requirements)<br />
 
-AC_Codes_Capture: <br />
-
-https://github.com/akarsh98/Automatic-AC-Control-using-Arduino/blob/master/IR_Code_Receive <br />
+AC_Codes_Capture: https://github.com/akarsh98/Automatic-AC-Control-using-Arduino/blob/master/IR_Code_Receive <br />
 
 AC Control: <br />
 
